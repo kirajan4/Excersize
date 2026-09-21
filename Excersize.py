@@ -55,13 +55,13 @@ print(d3)
 
 # Excercise9
 # Find Max Value : Find the name of the student with the highest score.
-scores = {"Arun": 78, "Bala": 92, "Charan": 85}
-if x in scores.values():
+# scores = {"Arun": 78, "Bala": 92, "Charan": 85}
+# if x in scores.values():
     
 
 
 # Excercise10
 # Create a dictionary with numbers from 1 to 5 as keys and their squares as values.
-{1: 1, 2: 4, 3: 9, 4: 16, 5: 25}
+# {1: 1, 2: 4, 3: 9, 4: 16, 5: 25}
 
 
