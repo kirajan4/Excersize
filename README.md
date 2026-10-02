@@ -15,11 +15,11 @@
 - Download the Python 3.x latest package from https://www.python.org/downloads/ website. <br>
 - Extract the downloaded file and install the package. <br>
 - While installing add the environment and system variables along with the process and select the necessary options. <br>
-- After complete the installation checkout the repo from Github.
-- Run the below command in repo path
-    - python Excersize.py
-    - python Training.py
-- Check for the results showing in Terminal
+- After complete the installation checkout the repo from Github.<br>
+- Run the below command in repo path<br>
+    - python Excersize.py<br>
+    - python Training.py<br>
+- Check for the results showing in Terminal<br>
 </p>
 <h2>How to install python in VSCode</h2>
 <p align = left><br>
