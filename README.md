@@ -1,7 +1,7 @@
 <h1> Python 3.x Excersize and Training Programms </h1>
 <p align = left> <br>
-* This repository has python excersize and Training made to easy learning.<br>*
-* It has various examples of how to use python variables, conditions, functions etc.,<br>*
+* This repository has python excersize and Training made to easy learning.<br>
+* It has various examples of how to use python variables, conditions, functions etc.,<br>
 </p>
 <h2> Environment used for this project </h2>
 <p align = left><br>
